@@ -1,0 +1,35 @@
+{
+    "hero": {
+        "header":"HARSH MANN LUXURY CONSULTANCY",
+        "subheader": "I always believe in applying innovative and unique ideas to luxury.",
+        "bg-image": "/images/homebanner.png"
+    },
+    "about":{
+        
+        "text":"As experts in the business of luxury, Harsh Mann Luxury Consultancy provides comprehensive business solutions for effective launch & establishment of luxury brands in Fashion, Hospitality, Automotive, Lifestyle, Perfume, Beauty and more."
+    ,
+        "bg-image":"/images/brand.jpg"
+      
+        
+
+    },
+    "founder":{
+        "header":"About Founder",
+        "bg-image":"/images/harshmann2.jpg",
+        "subheader":"A connoisseur of all things luxurious and passionate about the business of luxury, Harsh Mann, has cultivated deep insights on evolving industry trends across the world. As an MBA in luxury brand management and an alumnus of IFA, Paris, his in-depth knowledge and understanding of Indian culture as well as 25 different world cultures, makes him a keen observer of new challenges, current movements and foresee the future trends of the Indian luxury market."
+
+    },
+    "team":{
+        "subheader": "Team",
+        "header": "Meet The Team",
+        "bg-image":"/images/bg_5.jpg",
+        "members":[
+            {"name": "Harsh Mann", "image": "/images/harshmann2.jpg","quote":"I always believe in applying innovative and unique ideas to luxury." ,"position":"Founder"
+
+            },  { "name": "Nitish", "image": "/images/DSC_0883.jpg","quote":"I am to be the part of this company" ,"position":"member"
+            }
+         
+        ]
+    }
+   
+}
